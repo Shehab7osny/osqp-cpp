@@ -4,6 +4,7 @@ dist: focal
 
 # We need to update CMake, since by default only 3.12 is installed.
 # Note that the newly installed version will be in /usr/bin/cmake
+# Check
 addons:
   apt:
     sources:
